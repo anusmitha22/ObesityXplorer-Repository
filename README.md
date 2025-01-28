@@ -1,4 +1,4 @@
-# 🥗 Analyzing the Relationship Between Socioeconomic Factors, Exercise Routines, and Obesity Rates (2018–2023)
+#  Analyzing the Relationship Between Socioeconomic Factors, Exercise Routines, and Obesity Rates (2018–2023)
 
 ## 🚀 Project Overview
 
@@ -84,15 +84,10 @@ This project investigates the correlation between **socioeconomic factors**, **e
 
 ---
 
-## 🔮 Future Directions
+##  Future Directions
 - Investigate qualitative factors influencing exercise habits and obesity.
 - Examine regional disparities in obesity trends.
 - Extend analysis to include policy impacts and other health indicators.
-
----
-
-## 🙏 Acknowledgments
-Special thanks to **Professor Alex Harding** for guiding me in applying real-world data skills to uncover meaningful insights.
 
 ---
 
